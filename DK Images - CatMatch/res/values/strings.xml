@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">CatMatch</string>
+    <string name="welcome_message">Welcome to Cat Match!</string>
+    <string name="welcome_play_button">Play</string>
+    <string name="loading_message">Loading &#8230;</string>
+    <string name="completed_message">You found all da catz</string>
+    <string name="completed_play_button">Play Again</string>
+    <string name="menu_settings">Settings</string>
+    <string name="activity_title">Pearson API Cat Match</string>
+
+</resources>

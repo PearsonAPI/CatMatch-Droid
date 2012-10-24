@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headings">22pt</dimen>
+    <dimen name="buttons">16pt</dimen>
+</resources>

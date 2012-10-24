@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    style="@style/AppTheme"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <GridView
+        android:id="@+id/card_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:numColumns="3"
+        android:stretchMode="columnWidth" 
+        android:gravity="center_horizontal|fill_vertical">
+    </GridView>
+
+</LinearLayout>
